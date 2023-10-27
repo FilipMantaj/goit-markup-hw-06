@@ -728,6 +728,10 @@ margin-left: 16px;
   fill: transparent;
 }
 
+.link-modal {
+color: #4D5AE5;
+}
+
 .button-modal {
   display: block;
   min-width: 169px;
