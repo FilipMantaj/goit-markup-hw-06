@@ -682,7 +682,7 @@ margin-left: 16px;
   border-color: #4d5ae5;
 }
 
-.input-modal:checked + .span-modal {
+.input-five:checked + .label-five span {
   background-color:  #404bbf;
   border: none;
   fill: #F4F4FD;
