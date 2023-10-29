@@ -682,7 +682,7 @@ margin-left: 16px;
   border-color: #4d5ae5;
 }
 
-.input-modal:checked {
+.input-modal:checked + .span-modal {
   background-color:  #404bbf;
   border: none;
     }
