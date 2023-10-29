@@ -682,9 +682,10 @@ margin-left: 16px;
   border-color: #4d5ae5;
 }
 
-.input-modal:checked + .span-modal {
+.span-modal:checked {
   background-color:  #404bbf;
   border: none;
+  fill: #F4F4FD;
     }
 .icon-vector {
   position: absolute;
